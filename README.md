@@ -1,6 +1,6 @@
 # WaitingTest-with-Java-Selenium
 
-#Fluent Wait
+# Fluent Wait
 
 package com.fb;
 
@@ -26,7 +26,7 @@ wait.until(ExpectedConditions.visibilityOfElementLocated(By.linkText("Forget you
 	driver.findElement(By.linkText("Forget your password")).click();
 	}
 
- #Implicit Wait & Explicit Wait
+ # Implicit Wait & Explicit Wait
 
 package com.fb;
 
